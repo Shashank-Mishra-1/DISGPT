@@ -34,7 +34,26 @@ Create a .env file and add your API keys:
 ### 4️⃣ Run the Bot
 - python3 bot.py
 
+🎉 How to Use
+1️⃣ Add the bot to your server using its invite link.
+2️⃣ Mention DISGPT in any channel to get a reply! Example: @DISGPT, what's the weather like?
+3️⃣ Watch it respond with intelligence, wit, and charm! 🤩
 
+
+🐛 Troubleshooting
+❌ Bot not responding? Double-check your bot token and API key in .env.
+⏳ Rate Limit Errors? OpenAI's API has usage limits. Consider upgrading your plan if needed.
+🤔 Need help? Open an issue on GitHub or DM me on Discord!
+🤝 Contributing
+Got ideas or improvements? Contributions are welcome! Just fork the repo, make your changes, and submit a pull request. Let’s make DISGPT even better together! 🌟
+
+📜 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+🌟 Fun Fact
+DISGPT never sleeps, never eats, and never gets tired of your quirky jokes. Try asking it something random like:
+
+"Hey DISGPT, would you survive a zombie apocalypse?" 🧟‍♂️
 
 
 
