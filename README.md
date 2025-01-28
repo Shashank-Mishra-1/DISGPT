@@ -1,5 +1,3 @@
-It looks like the formatting is off, especially with spacing and line breaks. Here’s a fixed version that should render properly in your README file on GitHub:
-
 ```markdown
 # 🤖 DISGPT: The AI-Powered Discord Bot
 
@@ -27,13 +25,13 @@ Follow these steps to set up DISGPT on your server:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/DISGPT.git
+git clone https://github.com/Shashank-Mishra-1/DISGPT.git
 cd DISGPT
 ```
 
 ### 3️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements
 ```
 
 ### 4️⃣ Configure Environment Variables
@@ -45,7 +43,7 @@ SECRET_KEY=your_discord_bot_token
 
 ### 5️⃣ Run the Bot
 ```bash
-python bot.py
+python main.py
 ```
 
 ---
@@ -92,16 +90,3 @@ Got ideas or improvements? Contributions are welcome! Just fork the repo, make y
 
 ---
 
-## 🌟 Fun Fact
-
-DISGPT never sleeps, never eats, and never gets tired of your quirky jokes. Try asking it something random like:  
-> **"Hey DISGPT, would you survive a zombie apocalypse?"** 🧟‍♂️  
-```
-
-### Fixes:
-✅ Proper spacing between sections for better readability.  
-✅ Corrected Markdown syntax for GitHub rendering.  
-✅ Fixed misaligned emoji placements.  
-✅ Ensured that lists and code blocks are properly formatted.  
-
-This version should now render beautifully on GitHub! 🚀
