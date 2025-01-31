@@ -1,3 +1,4 @@
+```markdown
 ```
 # 🤖 DISGPT: The AI-Powered Discord Bot
 
@@ -30,6 +31,7 @@ cd DISGPT
 ```
 
 ### 3️⃣ Install Dependencies
+```bash
 ```
 pip install -r requirements
 ```
@@ -42,6 +44,7 @@ SECRET_KEY=your_discord_bot_token
 ```
 
 ### 5️⃣ Run the Bot
+```bash
 ```
 python main.py
 ```
