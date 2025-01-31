@@ -1,12 +1,10 @@
-```markdown
-```
-# 🤖 DISGPT: The AI-Powered Discord Bot
+# 🤖 DISGPT: The AI-Powered Discord Bot  
 
 DISGPT is a powerful and fun Discord bot that brings the magic of OpenAI's GPT-3.5-Turbo to your server! Whether you need quick answers, assistance with brainstorming, or just someone to chat with, DISGPT has got your back. 🎉  
 
 ---
 
-## ✨ Features
+## ✨ Features  
 
 - 🔥 **AI-Powered Chat** – Get instant and intelligent responses with OpenAI's GPT-3.5-Turbo.  
 - 💬 **Real-Time Interaction** – DISGPT responds to mentions, so just tag it and chat away!  
@@ -24,6 +22,8 @@ Follow these steps to set up DISGPT on your server:
 - 🤖 **A Discord Bot Token** (Get it from the [Discord Developer Portal](https://discord.com/developers/applications))  
 - 🔑 **An OpenAI API Key** ([Sign up here](https://platform.openai.com/signup/))  
 
+---
+
 ### 2️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Shashank-Mishra-1/DISGPT.git
@@ -32,11 +32,10 @@ cd DISGPT
 
 ### 3️⃣ Install Dependencies
 ```bash
-```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
-### 4️⃣ Configure Environment Variables
+### 4️⃣ Configure Environment Variables  
 Create a `.env` file and add your API keys:
 ```env
 OPENAI_API_KEY=your_openai_api_key
@@ -45,9 +44,8 @@ SECRET_KEY=your_discord_bot_token
 
 ### 5️⃣ Run the Bot
 ```bash
-```
 python main.py
-```
+```  
 
 ---
 
